@@ -3,7 +3,13 @@
 This repository includes general information and notes relevant to image classification using machine learning
 
 ## General overview of the issue
-Weld defects can occur due to numerous and various reasons, which will be discussed here later. There are many types of weld defect, but the ones that we are interested in are the following: Crack (CR), Porosity (PO), Undercut (UC), Incomplete Penetration (IP), Slag (Sl) and Lack of Fusion (LF). They may be later referred to by the given acronyms.
+Weld defects can occur due to numerous and various reasons, which will be discussed here later. There are many types of weld defect, but the ones that we are interested in are the following: Crack (CR), Porosity (PO), Undercut (UC), Incomplete Penetration (IP), Slag (Sl) and Lack of Fusion (LF). These may later be referred to by the given acronyms. An accurate identification of the defect is essential, since the remedy depends solely on the defect type. In order to gather information about the particular weld, ultrasound testing is generally used:
+
+![ultrasound](https://user-images.githubusercontent.com/63436458/186456502-ebffc417-b782-43fa-b6ba-5f78719dd912.jpg)
+*A simplified ultrasound test set-up for reference*
+The obtained data is the 1D-signal information of the particular weld. These data can be mapped out over the weld area in order to obtain 2D-data about the weld.
+
+Here are the typical causes of the defect types of our interest:
 
 ### Crack
 **Causes:**
@@ -60,7 +66,6 @@ Weld defects can occur due to numerous and various reasons, which will be discus
 
 
 ### Lack of Fusion
-
 **Causes:**
 * Low heat input.
 * Surface contamination.
@@ -69,4 +74,4 @@ Weld defects can occur due to numerous and various reasons, which will be discus
 * Travel speed is too fast.
 * The weld pool is too large and it runs ahead of the arc.
 
-
+## Possible approach to this problem
