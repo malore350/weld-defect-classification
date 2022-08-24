@@ -43,12 +43,11 @@ Weld defects can occur due to numerous and various reasons, which will be discus
 **Causes:**
 * There was too much space between the metal you’re welding together.
 * You’re moving the bead too quickly, which doesn’t allow enough metal to be deposited in the joint.
-* You’re using a too low amperage setting, which results in the current not being strong enough to properly melt the metal.
+* You’re using a too low amperage setting, which results in the current not being strong enough to properly melt the metal. <img align="right" src = "https://user-images.githubusercontent.com/63436458/186450625-99c48018-077f-469d-8142-c2ae25e57f5c.png">
 * Large electrode diameter.
 * Misalignment.
 * Improper joint.
 
-<img align="right" src = "https://user-images.githubusercontent.com/63436458/186450625-99c48018-077f-469d-8142-c2ae25e57f5c.png">
 
 ### Slag Inclusion
 **Causes:**
