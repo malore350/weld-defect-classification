@@ -1,6 +1,6 @@
 # Weld defect classification with Machine Learning
 
-This repository includes general information and notes relevant to image classification using machine learning
+This repository includes general information, notes and personal files relevant to the research topic
 
 ## General overview of the issue
 Weld defects can occur due to numerous and various reasons, which will be discussed here later. There are many types of weld defect, but the ones that we are interested in are the following: Crack (CR), Porosity (PO), Undercut (UC), Incomplete Penetration (IP), Slag (Sl) and Lack of Fusion (LF). These may later be referred to by the given acronyms. An accurate identification of the defect is essential, since the remedy depends solely on the defect type. In order to gather information about the particular weld, ultrasound testing is generally used:
