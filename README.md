@@ -9,26 +9,24 @@ Weld defects can occur due to numerous and various reasons, which will be discus
 **Causes:**
 * Use of hydrogen when welding ferrous metals.
 * Residual stress caused by the solidification shrinkage.
-* Base metal contamination.                                   
+* Base metal contamination.                                   <img align="right" src = "https://user-images.githubusercontent.com/63436458/186449212-a5368df4-4b3e-48fa-b5d2-274e8a4a1b8f.png">
 * High welding speed but low current.
 * No preheat before starting welding.
 * Poor joint design.
 * A high content of sulfur and carbon in the metal.
 
-<img align="right" src = "https://user-images.githubusercontent.com/63436458/186449212-a5368df4-4b3e-48fa-b5d2-274e8a4a1b8f.png">
 
 ### Porosity
 **Causes:**
 * Inadequate electrode deoxidant.
 * Using a longer arc.
 * The presence of moisture.
-* Improper gas shield.
+* Improper gas shield.                                      <img align="right" src = "https://user-images.githubusercontent.com/63436458/186449919-ac8b945a-4ec9-4d4c-9857-7d832689b69c.png">
 * Incorrect surface treatment.
 * Use of too high gas flow.
 * Contaminated surface.
 * Presence of rust, paint, grease or oil.
 
-![porosity](https://user-images.githubusercontent.com/63436458/186449919-ac8b945a-4ec9-4d4c-9857-7d832689b69c.png)
 
 ### Undercut
 **Causes:**
