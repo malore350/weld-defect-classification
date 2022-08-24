@@ -53,12 +53,11 @@ Weld defects can occur due to numerous and various reasons, which will be discus
 **Causes:**
 * Improper cleaning.
 * The weld speed is too fast.
-* Not cleaning the weld pass before starting a new one.
+* Not cleaning the weld pass before starting a new one.           <img align="right" src = "https://user-images.githubusercontent.com/63436458/186450667-0a19c2d7-e31f-4c1e-9f2a-c40470f468fb.png">
 * Incorrect welding angle.
 * The weld pool cools down too fast.
 * Welding current is too low.
 
-![slag-inclusion](https://user-images.githubusercontent.com/63436458/186450667-0a19c2d7-e31f-4c1e-9f2a-c40470f468fb.png)
 
 ### Lack of Fusion
 
