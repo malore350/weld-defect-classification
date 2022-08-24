@@ -32,13 +32,12 @@ Weld defects can occur due to numerous and various reasons, which will be discus
 **Causes:**
 * Too high weld current.
 * Too fast weld speed.
-* The use of an incorrect angle, which will direct more heat to free edges.
+* The use of an incorrect angle, which will direct more heat to free edges.       <img align="right" src = "https://user-images.githubusercontent.com/63436458/186450108-c3a4a653-6dda-4ab4-995d-c980477be894.png">
 * The electrode is too large.
 * Incorrect usage of gas shielding.
 * Incorrect filler metal.
 * Poor weld technique.
 
-![undercut](https://user-images.githubusercontent.com/63436458/186450108-c3a4a653-6dda-4ab4-995d-c980477be894.png)
 
 ### Incomplete Penetration
 **Causes:**
