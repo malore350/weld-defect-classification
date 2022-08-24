@@ -84,3 +84,5 @@ The obtained data is the 1D-signal information of the particular weld. These dat
   <img src="https://user-images.githubusercontent.com/63436458/186459776-46c7d9d7-4763-413e-8b24-a1e55c5c00cc.png" width = "500"/>
   <img src="https://user-images.githubusercontent.com/63436458/186459792-284800ca-9430-461e-923d-e3d8f88ba19e.png" width = "500"/> 
 </p>
+
+*3 sample PAUT signal data for various defects*
