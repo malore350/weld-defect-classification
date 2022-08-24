@@ -64,9 +64,9 @@ Weld defects can occur due to numerous and various reasons, which will be discus
 **Causes:**
 * Low heat input.
 * Surface contamination.
-* Electrode angle is incorrect.
+* Electrode angle is incorrect.                                 <img align="right" src = "https://user-images.githubusercontent.com/63436458/186450882-0b50d468-11ad-4306-b97b-d0b2ecb7e233.png">
 * The electrode diameter is incorrect for the material thickness you’re welding.
 * Travel speed is too fast.
 * The weld pool is too large and it runs ahead of the arc.
 
-![incomplete-fusion](https://user-images.githubusercontent.com/63436458/186450882-0b50d468-11ad-4306-b97b-d0b2ecb7e233.png)
+
