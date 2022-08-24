@@ -80,5 +80,8 @@ The obtained data is the 1D-signal information of the particular weld. These dat
 * In 1D convolution, kernel slides only in 1 direction
 * 1D CNN can perform signal recognition and classification from the given categories of data.
 
-![alt-text-1](https://user-images.githubusercontent.com/63436458/186459776-46c7d9d7-4763-413e-8b24-a1e55c5c00cc.png "*3 sample PAUT signal data for various defects*") ![alt-text-2](https://user-images.githubusercontent.com/63436458/186459792-284800ca-9430-461e-923d-e3d8f88ba19e.png "*A kernel of a sample 1D convolution*")
+*3 sample PAUT signal data for various defects* | *A kernel of a sample 1D convolution*
+--- | ---
+![](https://user-images.githubusercontent.com/63436458/186459776-46c7d9d7-4763-413e-8b24-a1e55c5c00cc.png) | ![](https://user-images.githubusercontent.com/63436458/186459792-284800ca-9430-461e-923d-e3d8f88ba19e.png)
+
 
