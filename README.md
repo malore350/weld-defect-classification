@@ -74,6 +74,7 @@ The obtained data is the 1D-signal information of the particular weld. These dat
 * Travel speed is too fast.
 * The weld pool is too large and it runs ahead of the arc.
 
+
 ## Possible approaches to this problem
 
 ### 1D signal classification
