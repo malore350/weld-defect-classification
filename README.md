@@ -5,10 +5,11 @@ This repository includes general information, notes and personal files relevant 
 ## General overview of the issue
 Weld defects can occur due to numerous and various reasons, which will be discussed here later. There are many types of weld defect, but the ones that we are interested in are the following: Crack (CR), Porosity (PO), Undercut (UC), Incomplete Penetration (IP), Slag (Sl) and Lack of Fusion (LF). These may later be referred to by the given acronyms. An accurate identification of the defect is essential, since the remedy depends solely on the defect type. In order to gather information about the particular weld, ultrasound testing is generally used:
 
+<center>
 | ![space-1.jpg](https://user-images.githubusercontent.com/63436458/186456502-ebffc417-b782-43fa-b6ba-5f78719dd912.jpg) | 
 |:--:| 
 | *A simplified ultrasound test set-up for reference* |
-
+</center>
 The obtained data is the 1D-signal information of the particular weld. These data can be mapped out over the weld area in order to obtain 2D-data about the weld. Here are the typical causes of the defect types of our interest:
 
 ### Crack
