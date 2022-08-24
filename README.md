@@ -74,4 +74,13 @@ The obtained data is the 1D-signal information of the particular weld. These dat
 * Travel speed is too fast.
 * The weld pool is too large and it runs ahead of the arc.
 
-## Possible approach to this problem
+## Possible approaches to this problem
+
+### 1D signal classification
+* In 1D convolution, kernel slides only in 1 direction
+* 1D CNN can perform signal recognition and classification from the given categories of data.
+
+<p float="center">
+  <img src="https://user-images.githubusercontent.com/63436458/186459776-46c7d9d7-4763-413e-8b24-a1e55c5c00cc.png" />
+  <img src="https://user-images.githubusercontent.com/63436458/186459792-284800ca-9430-461e-923d-e3d8f88ba19e.png"/> 
+</p>
