@@ -48,7 +48,7 @@ Weld defects can occur due to numerous and various reasons, which will be discus
 * Misalignment.
 * Improper joint.
 
-![incomplete-penetration](https://user-images.githubusercontent.com/63436458/186450625-99c48018-077f-469d-8142-c2ae25e57f5c.png)
+<img align="right" src = "https://user-images.githubusercontent.com/63436458/186450625-99c48018-077f-469d-8142-c2ae25e57f5c.png">
 
 ### Slag Inclusion
 **Causes:**
