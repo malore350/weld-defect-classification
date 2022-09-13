@@ -103,4 +103,4 @@ The high accuracy is the result of the data imbalance and high accuracy in categ
 
 
 ### 2D data classification
-In order to directly eliminate 
+For sake of possible deployment, I deemed implementing models that can detect multiple objects as essential. 
