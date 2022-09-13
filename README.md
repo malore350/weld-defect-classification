@@ -101,3 +101,5 @@ The acquired data has a massive weight imbalance, with the data distribution bei
 The high accuracy is the result of the data imbalance and high accuracy in categories with higher amount of data. Since most categories do not even get classified, the 1D classification was deemed to be an unsuitable method, and thus has been dropped.
 
 
+### 2D data classification
+
