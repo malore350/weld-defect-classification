@@ -103,8 +103,17 @@ The high accuracy is the result of the data imbalance and high accuracy in categ
 
 
 ### 2D data classification
-For sake of possible deployment, I deemed implementing models that can detect multiple objects as essential. For this reason, I implemented the Facebook Detectron2 Faster R-CNN. Just like its alternatives like YOLO, it works around the region based CNN, with the extra Region Proposal Network (RPN) at the last layer, which allows region proposal.
+For sake of possible deployment, I deemed implementing models that can detect multiple objects as essential. For this reason, I implemented the Facebook Detectron2 Faster R-CNN. Just like its alternatives like YOLO, it works around the region based CNN, with the extra Region Proposal Network (RPN) at the last layer, which allows region proposal. RPNs are designed to efficiently predict region proposals with a wide range of scales and aspect ratios.A Region Proposal Network (RPN) takes an image
+(of any size) as input and outputs a set of rectangular object proposals, each with an objectness score.
+
+Each feature point in the last convolutional layer of RPN is an anchor. For each anchor, nine kinds of anchor boxes can be pre-extracted using three different scales and three different aspect ratios. Compared with YOLO's two pre- dicted bounding boxes, the anchor boxes of Faster R-CNN take into account the objects with different scales and aspect ratios.
 
 | ![image](https://user-images.githubusercontent.com/63436458/189889635-6df0438f-88d2-4e4c-bbc3-e6bedb493578.png) | 
 |:--:| 
-| *A simplified ultrasound test set-up for reference* |
+| *RPN Network* |
+
+Data has been divided with k-fold cross validation in mind in order to remove possibility of biased results. The model had been successfully implemented and I trained the data with it. The following shows what the sample output of Detectron2 FRCNN looks like:
+
+*3 sample PAUT signal data for various defects* | *A kernel of a sample 1D convolution*
+--- | ---
+![image](https://user-images.githubusercontent.com/63436458/189891693-452998e8-68b7-4630-a72c-4b119a5fbeb2.png) | ![image](https://user-images.githubusercontent.com/63436458/189891806-bd106689-26f3-433c-9b31-ef53319d857b.png)
