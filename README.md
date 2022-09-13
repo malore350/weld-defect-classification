@@ -103,4 +103,9 @@ The high accuracy is the result of the data imbalance and high accuracy in categ
 
 
 ### 2D data classification
-For sake of possible deployment, I deemed implementing models that can detect multiple objects as essential. 
+For sake of possible deployment, I deemed implementing models that can detect multiple objects as essential. For this reason, I implemented the Facebook Detectron2 Faster R-CNN. Just like its alternatives like YOLO, it works around the region based CNN, with the extra Region Proposal Network (RPN) at the last layer, which allows region proposal.
+
+
+| ![space-1.jpg](![image](https://user-images.githubusercontent.com/63436458/189889326-330ed62f-708a-4bf8-844a-33f3970ea465.png)| 
+|:--:| 
+| *A simplified ultrasound test set-up for reference* |
