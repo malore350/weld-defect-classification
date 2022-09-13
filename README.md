@@ -114,6 +114,6 @@ Each feature point in the last convolutional layer of RPN is an anchor. For each
 
 Data has been divided with k-fold cross validation in mind in order to remove possibility of biased results. The model had been successfully implemented and I trained the data with it. The following shows what the sample output of Detectron2 FRCNN looks like:
 
-*3 sample PAUT signal data for various defects* | *A kernel of a sample 1D convolution*
+*Sample output of proposal boxes, single object detected* | *Sample output of proposal boxes, multiple object detected*
 --- | ---
 ![image](https://user-images.githubusercontent.com/63436458/189891693-452998e8-68b7-4630-a72c-4b119a5fbeb2.png) | ![image](https://user-images.githubusercontent.com/63436458/189891806-bd106689-26f3-433c-9b31-ef53319d857b.png)
