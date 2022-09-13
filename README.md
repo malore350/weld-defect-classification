@@ -80,7 +80,7 @@ The obtained data is the 1D-signal information of the particular weld. These dat
 ## Data Collection
 Data obtained from the PAUT is the intensity level signal information, which is a 1D data. This data can be mapped over the range width of the metal to obtain the intensity map of the signal, which is the 2D data. The difference in data types provides a certain flexibility with respect to training methods.
 
-The acquired data has a massive weight imbalance, with the data distribution being 0.88:0.03:0.02:0.04:0.01:0.01 for NO:CR:IP:LF:PO:Sl:UC. The huge amount of data for Normal category is natural, since only limited areas of the sample have defects.
+The acquired data has a massive weight imbalance, with the data distribution being 0.88:0.03:0.02:0.04:0.01:0.01 for NO:CR:IP:LF:PO:Sl:UC. The huge amount of data for Normal category is natural, since only limited areas of the sample have defects. Still, Porosity, Undercut and Slug categories have a sizable lack of data with respect to rest of data, but this cannot be adjusted. The data weights had been manually balanced before training, but the unavailability of the data for several defects still presents inherent problems in training.
 
 ## Possible approaches to this problem
 
@@ -97,3 +97,5 @@ The acquired data has a massive weight imbalance, with the data distribution bei
 **CR** | **IP** | **LF** | **NO** | **PO** | **Sl** | **UC** | **Total Accuracy**
 --- | --- | --- | --- | --- | --- | --- | ---
 0/96 | 0/64 | 140/171 | 290/290 | 0/30 | 0/20 | 0/28 | 61%
+
+Th
