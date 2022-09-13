@@ -87,4 +87,8 @@ The obtained data is the 1D-signal information of the particular weld. These dat
 --- | ---
 ![](https://user-images.githubusercontent.com/63436458/186459776-46c7d9d7-4763-413e-8b24-a1e55c5c00cc.png) | ![](https://user-images.githubusercontent.com/63436458/186459792-284800ca-9430-461e-923d-e3d8f88ba19e.png)
 
+#### Results:
 
+**CR** | **IP** | **LF** | **NO** | **PO** | **Sl** | **UC**
+--- | --- | --- | --- | --- | ---
+0/96 | 0/64 | 140/171 | 290/290 | 0/30 | 0/20 | 0/28 | 
