@@ -82,6 +82,7 @@ Data obtained from the PAUT is the intensity level signal information, which is 
 
 The acquired data has a massive weight imbalance, with the data distribution being 0.88:0.03:0.02:0.04:0.01:0.01 for NO:CR:IP:LF:PO:Sl:UC. The huge amount of data for Normal category is natural, since only limited areas of the sample have defects. Still, Porosity, Undercut and Slug categories have a sizable lack of data with respect to rest of data, but this cannot be adjusted. The data weights had been manually balanced before training, but the unavailability of the data for several defects still presents inherent problems in training.
 
+The disadvantage of both 1D convolutional neural network and simple 2D image classification is that it is naturally bounded with the binary outcome; however, it is technically possible that multiple defects are present on the same width of a sample.
 ## Possible approaches to this problem
 
 ### 1D signal classification
@@ -102,4 +103,4 @@ The high accuracy is the result of the data imbalance and high accuracy in categ
 
 
 ### 2D data classification
-
+In order to directly eliminate 
