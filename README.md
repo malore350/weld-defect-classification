@@ -89,6 +89,6 @@ The obtained data is the 1D-signal information of the particular weld. These dat
 
 #### Results:
 
-**CR** | **IP** | **LF** | **NO** | **PO** | **Sl** | **UC**
---- | --- | --- | --- | --- | --- | ---
-0/96 | 0/64 | 140/171 | 290/290 | 0/30 | 0/20 | 0/28
+**CR** | **IP** | **LF** | **NO** | **PO** | **Sl** | **UC** | **Total Accuracy**
+--- | --- | --- | --- | --- | --- | --- | ---
+0/96 | 0/64 | 140/171 | 290/290 | 0/30 | 0/20 | 0/28 | 61%
