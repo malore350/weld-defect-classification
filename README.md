@@ -1,4 +1,4 @@
-# Weld defect classification with Machine Learning
+# Weld defect classification with various machine learning techniques
 
 This repository includes general information, notes and personal files relevant to the research topic
 
