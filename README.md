@@ -106,7 +106,9 @@ The high accuracy is the result of the data imbalance and high accuracy in categ
 For sake of possible deployment, I deemed implementing models that can detect multiple objects as essential. For this reason, I implemented the Facebook Detectron2 Faster R-CNN. Just like its alternatives like YOLO, it works around the region based CNN, with the extra Region Proposal Network (RPN) at the last layer, which allows region proposal. RPNs are designed to efficiently predict region proposals with a wide range of scales and aspect ratios.A Region Proposal Network (RPN) takes an image
 (of any size) as input and outputs a set of rectangular object proposals, each with an objectness score.
 
-Each feature point in the last convolutional layer of RPN is an anchor. For each anchor, nine kinds of anchor boxes can be pre-extracted using three different scales and three different aspect ratios. Compared with YOLO's two pre- dicted bounding boxes, the anchor boxes of Faster R-CNN take into account the objects with different scales and aspect ratios.
+Each feature point in the last convolutional layer of RPN is an anchor. For each anchor, nine kinds of anchor boxes can be pre-extracted using three different scales and three different aspect ratios. Compared with YOLO's two pre- dicted bounding boxes, the anchor boxes of Faster R-CNN take into account the objects with different scales and aspect ratios. Here is the link to Detectron2 official [Github](https://github.com/facebookresearch/detectron2)
+
+https://github.com/facebookresearch/detectron2
 
 | ![image](https://user-images.githubusercontent.com/63436458/189889635-6df0438f-88d2-4e4c-bbc3-e6bedb493578.png) | 
 |:--:| 
